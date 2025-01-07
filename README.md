@@ -1,6 +1,6 @@
 👋 Hi, I’m @fikesoft
 
-I am an 19-year-old person passionate about programming and eager to learn more about it. My main interests lie in Python and Java, and I aspire to become a web developer.
+I am an 19-year-old person passionate about programming and eager to learn more about it. My main interests lie in FullStack Development with MERN stack , and I aspire to become a web developer.
 
 - 👀 I’m interested in exploring different programming languages, web development, and software engineering.
 - 🌱 I’m currently learning Python and Java to strengthen my programming skills.
